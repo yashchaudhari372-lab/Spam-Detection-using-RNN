@@ -11,7 +11,7 @@ An end-to-end **spam message classification** project using **Natural Language P
 
 ## Project Overview
 
-Unwanted promotional messages, phishing attempts, and unsolicited communication can make messaging platforms difficult to use. This project demonstrates how deep learning can assist with automated spam filtering by learning patterns from labeled text messages.
+Unwanted promotional messages, phishing attempts, and unsolicited communication can make messaging platforms difficult to use. This project demonstrates how deep learning can assist with automated spam filtering by learning patterns from labeled text messages..
 
 The saved model and preprocessing artifacts are packaged with an application so users can test new messages through a web interface.
 
